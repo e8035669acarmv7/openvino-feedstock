@@ -1,8 +1,7 @@
-migrator_ts: 1692696547
+migrator_ts: 1712592149
 __migrator:
   kind: version
   migration_number: 1
   bump_number: 1
-
-pugixml:
-  - '1.13'
+snappy:
+  - 1.2
